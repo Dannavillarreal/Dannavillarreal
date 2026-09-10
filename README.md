@@ -1,22 +1,38 @@
 <div align="center">
 
-  <!-- El gatito caminando -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN3YmIxa3UzeW9qY3F3ZXk2eWp3ZGN4YjEzeXQ3Zm95dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v6aOjy0Qo1fIA/giphy.gif" width="120px"/>
+  <!-- Banner Girly Rosa / Pastel -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,20,31&height=200&section=header&text=🎀%20danna's%20world%20✨&fontsize=42&fontAlignY=35&animation=twinkling&desc=welcome%20to%20my%20space%20🌷&descAlignY=62&descScale=18" width="100%"/>
 
-  <h1>Hola, soy Dannaaaaa ✨</h1>
-  <p>Frontend, código y cosas bonitas 💻</p>
+  <!-- GIF de Gatito Cute con Moño -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZydmxreDRsZGhzNzZocXVsbTFzZDFsd3ZveGFicHgyZjZtdzFnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43mXy43vC8S6A/giphy.gif" width="140px"/>
+
+  <h3>🌸 front-end & web design enthusiast 🌸</h3>
+  <p><i>creating cute, pretty & interactive things for the web 🦩✨</i></p>
 
   <br/>
 
-  <!-- Badges sencillos -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <!-- Badges en Estilo Fluffy / Pastel -->
+  <p><b>✨ my favorite tools ✨</b></p>
+  <img src="https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FFDAC1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-E2F0CB?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-B5EAD7?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-C7CEEA?style=for-the-badge&logo=git&logoColor=white"/>
 
   <br/><br/>
 
-  <!-- Stats estéticas y relajadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=rose_pine&hide_border=true" width="400px"/>
+  <!-- Cards de Stats en Tema Rose Pine / Catppuccin -->
+  <p><b>🌷 GitHub Stats 🌷</b></p>
+  <a href="https://github.com/DannaVillarreal">
+    <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=ffc0cb&text_color=e6e6fa" width="420px"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Contador de Visitas Cute -->
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=ffb6c1&style=for-the-badge&label=cute+visitors:" />
+
+  <br/><br/>
+  <sub>🎀 <i>made with love & sparkles</i> 🎀</sub>
 
 </div>
