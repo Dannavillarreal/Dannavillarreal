@@ -1,22 +1,25 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZydmxreDRsZGhzNzZocXVsbTFzZDFsd3ZveGFicHgyZjZtdzFnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43mXy43vC8S6A/giphy.gif" width="130px"/>
+  <!-- Banner con fondo pastel de estrellitas y el unicornio pixel art -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FAD02C&customColorList=0,10,20&height=220&section=header&text=✨%20Holaa,%20SOY%20Dannaaa!%20🎀&fontsize=40&fontAlignY=65&animation=twinkling&stroke=FFFFFF" width="100%"/>
 
-  <h1>Holaaa, soy Dannaaaa 🎀✨</h1>
-  
-  <p>estudiante intentando no pelear con el código 💻🌸</p>
-  <p><i>apenas aprendiendo lo básico pero haciendo cosas bonitas ♡</i></p>
+  <!-- GIF del unicornio pixel art caminando -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZydmxreDRsZGhzNzZocXVsbTFzZDFsd3ZveGFicHgyZjZtdzFnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43mXy43vC8S6A/giphy.gif" width="150px"/>
+
+  <p>🌸 <b>Estudiante en constante aprendizaje!</b> 💻✨</p>
+  <p><i>Me encanta el diseño y crear cosas lindas con HTML, CSS y JS. ¡Aquí muestro mi progreso! ♡</i></p>
 
   <br/>
 
-  <p>🌸 <b>Lo que ando aprendiendo!!!</b> 🌸</p>
+  <p>✨ <b>Mis tecnologías favoritas!!</b> ✨</p>
+
+  <img src="https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FFDAC1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-E2F0CB?style=for-the-badge&logo=javascript&logoColor=black"/>
   
-  <img src="https://img.shields.io/badge/HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FFDAC1?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E2F0CB?style=flat-square&logo=javascript&logoColor=black"/>
 
   <br/><br/>
-  
-  <sub>🎀 En constante proceso de aprendizaje 🎀</sub>
+
+  <sub>🎀 <i>Made with love & sparkles</i> 🎀</sub>
 
 </div>
