@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Rosa Pastel Animado con Estrellitas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,20,31&height=220&section=header&text=✨%20Holaa,%20SOY%20Dannaaa!%20🎀&fontsize=40&fontAlignY=35&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,20,31&height=220&section=header&text=✨%20Holaa,%20soy%20Dannaaa!%20🎀&fontsize=40&fontAlignY=35&animation=twinkling" width="100%"/>
 
   <br/>
 
