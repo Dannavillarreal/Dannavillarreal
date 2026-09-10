@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Banner con el marco pastel, unicornio y título -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FAD02C&customColorList=0,10,20&height=200&section=header&text=✨%20HOLA,%20SOY%20DANNA!%20🎀&fontsize=38&fontAlignY=60&animation=twinkling&stroke=FFFFFF" width="100%"/>
+  <!-- Banner Rosa Pastel Animado con Estrellitas -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,20,31&height=220&section=header&text=✨%20Holaa,%20SOY%20Dannaaa!%20🎀&fontsize=40&fontAlignY=35&animation=twinkling" width="100%"/>
 
-  <!-- GIF del unicornio pixel art justo en el centro -->
+  <br/>
+
+  <!-- GIF del Unicornio Pixel Art -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZydmxreDRsZGhzNzZocXVsbTFzZDFsd3ZveGFicHgyZjZtdzFnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43mXy43vC8S6A/giphy.gif" width="160px"/>
 
   <p><b>🌸 Estudiante en constante aprendizaje! 💻✨</b></p>
@@ -11,9 +13,9 @@
 
   <br/>
 
-  <p>✨ <b>mis tecnologías favoritas!!</b> ✨</p>
+  <p>✨ <b>Mis tecnologías favoritas!!</b> ✨</p>
 
-  <!-- Botones de Tecnologías en Tonos Pastel -->
+  <!-- Botones de Tecnologías Pastel -->
   <img src="https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FFDAC1?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-E2F0CB?style=for-the-badge&logo=javascript&logoColor=black"/>
